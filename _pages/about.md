@@ -12,13 +12,18 @@ I received a B.S. degree in Electronics and Communications Engineering from [Bei
 Publications
 ======
 1. [*FSoD-Net: Full-Scale Object Detection From Optical Remote Sensing Imagery*](https://xplorestaging.ieee.org/document/9382268/authors#authors)  
-   **Guanqun Wang**, Yin Zhuang, He Chen, Xiang Liu, Tong Zhang, Shan Dong, Qianbo Sang  
+   **Guanqun Wang**, Yin Zhuang*, He Chen, Xiang Liu, Tong Zhang, Shan Dong, Qianbo Sang  
    IEEE Transactions on Geoscience and Remote Sensing, 2021 ((Highly Cited in ESI)  
 2. [*DECOR: Dynamic Decoupling and Multiobjective Optimization for Long-Tailed Remote Sensing Image Classification*](https://xplorestaging.ieee.org/document/10443928)  
    Jianlin Xie, __Guanqun Wang*__, Yin Zhuang, Can Li, Tong Zhang, He Chen, Liang Chen, Shanghang Zhang  
    IEEE Transactions on Geoscience and Remote Sensing, 2024  
 3. *Adaptive Dynamic Label Assignment for Tiny Object Detection in Aerial Images*  
-   Lihui Ge, __Guanqun Wang*__, Yin Zhuang, He Chen, Hao Dong, Liang Chen
+   Lihui Ge, __Guanqun Wang*__, Yin Zhuang, He Chen, Hao Dong, Liang Chen  
+   IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing, 2024
+4. *Cloud-Device Collaborative Learning for Multimodal Large Language Models*  
+   **Guanqun Wang**, Jiaming Liu, Chenxuan Li, Yuan Zhang, Junpeng Ma, Xinyu Wei, Kevin Zhang, Maurice Chong, Renrui Zhang, Yijiang Liu, Shanghang Zhang*  
+   Computer Vision and Pattern Recognition (CVPR), 2024  
+   
 
 
 
