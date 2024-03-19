@@ -12,7 +12,7 @@ title                    : "Guanqun Wang's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Guanqun Wang"
 description              : &description "personal description"
-url                      : https://wgqqgw.github.io
+url                      : "https://wgqqgw.github.io"
 baseurl                  : # "" # the subpath of your site, e.g. "/blog"
 repository               : "wgqqgw/Jasper.github.io"
 
