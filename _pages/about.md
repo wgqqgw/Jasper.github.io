@@ -95,21 +95,13 @@ Publications
     Liang Chen, Zhiru Wang, Zhong Han, **Guanqun Wang**, Haotian Zhou, Hao Shi, Cheng Hu, Teng Long  
     Science & Technology Review, 2017  
 
-    
-   
-
-
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Patents
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. 基于层次化显著性分析的遥感图像序列动目标检测方法  
+2. 一种提升遥感下游任务性能的知识迁移方法  
+3. 一种二分类嵌入空间引导角度回归的旋转目标检测方法  
+4. 一种适用于遥感目标检测任务的自监督预训练方法  
+5. 一种后验实例信息引导的无锚框遥感旋转目标检测方法  
 
 Site-wide configuration
 ------
