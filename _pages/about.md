@@ -13,7 +13,8 @@ Publications
 ======
 <span style="color: gray; font-weight: bold; font-style: italic; text-decoration: underline;">
     <a href="https://scholar.google.com/citations?hl=en&user=tkr88JsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar Profile</a>
-</span>
+</span>  
+
 1. [*DECOR: Dynamic Decoupling and Multiobjective Optimization for Long-Tailed Remote Sensing Image Classification*](https://xplorestaging.ieee.org/document/10443928)  
    Jianlin Xie, __Guanqun Wang*__, Yin Zhuang, Can Li, Tong Zhang, He Chen, Liang Chen, Shanghang Zhang  
    IEEE Transactions on Geoscience and Remote Sensing, 2024
