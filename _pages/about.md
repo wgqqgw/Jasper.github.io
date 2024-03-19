@@ -9,9 +9,15 @@ redirect_from:
 
 I received a B.S. degree in Electronics and Communications Engineering from [Beijing Institute of Technology](https://sie.bit.edu.cn/), Beijing, China, in 2017 and a Ph.D. in [Radar Technology Research Institute](https://radar.bit.edu.cn/index.htm), Information and Communication Engineering from Beijing Institute of Technology, Beijing, China, 2023. I am currently a Postdoctoral Researcher at the School of Computer Science, [Peking University](https://cs.pku.edu.cn/), Beijing, China, and my research covers a wide range of topics in computer vision and deep learning, including remote sensing object detection, recognition, and multimodal large language models. Currently, my main research focus is on exploring universal multimodal large-scale model architectures and algorithms, with a dedication to applying them in areas closely related to people's livelihoods such as remote sensing intelligent interpretation.
 
-A data-driven personal website
+Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1. [*FSoD-Net: Full-Scale Object Detection From Optical Remote Sensing Imagery*](https://xplorestaging.ieee.org/document/9382268/authors#authors)
+   **Guanqun Wang**, Yin Zhuang, He Chen, Xiang Liu, Tong Zhang, Shan Dong, Qianbo Sang
+   IEEE Transactions on Geoscience and Remote Sensing, 2021 ((Highly Cited in ESI)
+2. [*DECOR: Dynamic Decoupling and Multiobjective Optimization for Long-Tailed Remote Sensing Image Classification*](https://xplorestaging.ieee.org/document/10443928)
+   Jianlin Xie, __Guanqun Wang*__, Yin Zhuang, Can Li, Tong Zhang, He Chen, Liang Chen, Shanghang Zhang
+   IEEE Transactions on Geoscience and Remote Sensing, 2024
+3.    
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
