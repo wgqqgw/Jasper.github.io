@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "证件寸照.jpg"
   name             : "Guanqun Wang"
   pronouns         : # example: "He"  
   bio              : "AI一品炼丹师（努力成长中）"
