@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Guanqun Wang's Academic Page"
+title: "Guanqun Wang 王冠群"
 author_profile: true
 redirect_from: 
   - /about/
