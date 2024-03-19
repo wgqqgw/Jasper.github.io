@@ -42,34 +42,34 @@ Publications
 10. [*Multiscale semantic fusion-guided fractal convolutional object detection network for optical remote sensing imagery*](https://ieeexplore.ieee.org/document/9535169)  
     Tong Zhang, Yin Zhuang, **Guanqun Wang**, Shan Dong, He Chen, Lianlin Li
     IEEE Transactions on Geoscience and Remote Sensing, 2021  
-12. [*FSoD-Net: Full-Scale Object Detection From Optical Remote Sensing Imagery*](https://xplorestaging.ieee.org/document/9382268/authors#authors)  
+11. [*FSoD-Net: Full-Scale Object Detection From Optical Remote Sensing Imagery*](https://xplorestaging.ieee.org/document/9382268/authors#authors)  
    **Guanqun Wang**, Yin Zhuang*, He Chen, Xiang Liu, Tong Zhang, Shan Dong, Qianbo Sang  
    IEEE Transactions on Geoscience and Remote Sensing, 2021 (**Highly Cited in ESI**)
-13. [*Improved land cover classification of VHR optical remote sensing imagery based upon detail injection procedure*](https://ieeexplore.ieee.org/document/9234690)
+12. [*Improved land cover classification of VHR optical remote sensing imagery based upon detail injection procedure*](https://ieeexplore.ieee.org/document/9234690)
     Qianbo Sang, Yin Zhuang, Shan Dong, **Guanqun Wang**, He Chen, Lianlin Li  
     IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing, 2020
-14. [*Feature enhanced centernet for object detection in remote sensing images*](https://ieeexplore.ieee.org/document/9323116)
+13. [*Feature enhanced centernet for object detection in remote sensing images*](https://ieeexplore.ieee.org/document/9323116)
     Tong Zhang, **Guanqun Wang**, Yin Zhuang, He Chen, Hao Shi, Liang Chen
     IEEE International Geoscience and Remote Sensing Symposium, 2020
-15. [*A SAR target recognition method with frequency and spatial domain enhancement*](https://ieeexplore.ieee.org/document/9173318)
+14. [*A SAR target recognition method with frequency and spatial domain enhancement*](https://ieeexplore.ieee.org/document/9173318)
     Zhiru Wang, Liang Chen, Baogui Qi, **Guanqun Wang**, Hao Shi
     IEEE International Conference on Signal, Information and Data Processing, 2019
-16. [*SAR image classification method based on Gabor feature and K‐NN*](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/joe.2019.0382)
+15. [*SAR image classification method based on Gabor feature and K‐NN*](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/joe.2019.0382)
     Zhiru Wang, Liang Chen, Hao Shi, Baogui Qi, **Guanqun Wang**
     The Journal of Engineering, 2019
-17. [*FRF-Net: Land cover classification from large-scale VHR optical remote sensing images*](https://ieeexplore.ieee.org/document/8848484)  
+16. [*FRF-Net: Land cover classification from large-scale VHR optical remote sensing images*](https://ieeexplore.ieee.org/document/8848484)  
     Qianbo Sang, Yin Zhuang, Shan Dong, **Guanqun Wang**, He Chen
     IEEE Geoscience and Remote Sensing Letters, 2019
-18. [*Spatial enhanced-ssd for multiclass object detection in remote sensing images*](https://ieeexplore.ieee.org/document/8898526)
+17. [*Spatial enhanced-ssd for multiclass object detection in remote sensing images*](https://ieeexplore.ieee.org/document/8898526)
     **Guanqun Wang**, Yin Zhuang, Zhiru Wang, He Chen, Hao Shi, Liang Chen
     IEEE International Geoscience and Remote Sensing Symposium, 2019 (Oral)
-19. [*A novel harbor detection method based on pattern coding algorithm*](https://ieeexplore.ieee.org/document/8518972)
+18. [*A novel harbor detection method based on pattern coding algorithm*](https://ieeexplore.ieee.org/document/8518972)
     **Guanqun Wang**, Yin Zhuang, He Chen, Liang Chen
     IEEE International Geoscience and Remote Sensing Symposium, 2018
-20. [*Hierarchical sea-land segmentation for panchromatic remote sensing imagery*](https://www.hindawi.com/journals/mpe/2017/4728425/)
+19. [*Hierarchical sea-land segmentation for panchromatic remote sensing imagery*](https://www.hindawi.com/journals/mpe/2017/4728425/)
     Long Ma, Nouman Q.Soomro, JinJing Shen, Liang Chen, Zhihong Mai, **Guanqun Wang**
     Mathematical Problem in Engineering, 2017
-21. [*A review of ship detection and recognition based on optical remote sensing image*](http://www.kjdb.org/CN/article/downloadArticleFile.do?attachType=PDF&id=14593)
+20. [*A review of ship detection and recognition based on optical remote sensing image*](http://www.kjdb.org/CN/article/downloadArticleFile.do?attachType=PDF&id=14593)  
     Liang Chen, Zhiru Wang, Zhong Han, **Guanqun Wang**, Haotian Zhou, Hao Shi, Cheng Hu, Teng Long  
     Science & Technology Review, 2017  
 
