@@ -19,8 +19,7 @@ Publications
    IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing, 2024
 3. *Cloud-Device Collaborative Learning for Multimodal Large Language Models*  
    **Guanqun Wang**, Jiaming Liu, Chenxuan Li, Yuan Zhang, Junpeng Ma, Xinyu Wei, Kevin Zhang, Maurice Chong, Renrui Zhang, Yijiang Liu, Shanghang Zhang*  
-   Computer Vision and Pattern Recognition (CVPR), 2024  
-   [arXiv](https://arxiv.org/abs/2312.16279)
+   Computer Vision and Pattern Recognition (CVPR), 2024  [arXiv](https://arxiv.org/abs/2312.16279)
 4. [*Posterior Instance Injection Detector for Arbitrary-Oriented Object Detection from Optical Remote Sensing Imagery*](https://ieeexplore.ieee.org/document/10292881)  
    Tong Zhang, Yin Zhuang, He Chen, **Guanqun Wang**, Lihui Ge, Liang Chen, Hao Dong, Lianlin Li  
    IEEE Transactions on Geoscience and Remote Sensing, 2023  
