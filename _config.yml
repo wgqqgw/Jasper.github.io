@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Guanqun Wang's Personal Homepage"
+title                    : "Guanqun Wang/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Guanqun Wang"
-description              : &description "personal description"
+description              : &description "Postdoc from Peking University"
 url                      : "https://wgqqgw.github.io"
 baseurl                  : # "" # the subpath of your site, e.g. "/blog"
 repository               : "wgqqgw/Jasper.github.io"
