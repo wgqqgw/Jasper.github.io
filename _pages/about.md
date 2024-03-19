@@ -17,7 +17,7 @@ Publications
 2. [*DECOR: Dynamic Decoupling and Multiobjective Optimization for Long-Tailed Remote Sensing Image Classification*](https://xplorestaging.ieee.org/document/10443928)  
    Jianlin Xie, __Guanqun Wang*__, Yin Zhuang, Can Li, Tong Zhang, He Chen, Liang Chen, Shanghang Zhang  
    IEEE Transactions on Geoscience and Remote Sensing, 2024  
-3. *Adaptive Dynamic Label Assignment for Tiny Object Detection in Aerial Images*
+3. *Adaptive Dynamic Label Assignment for Tiny Object Detection in Aerial Images*  
    Lihui Ge, __Guanqun Wang*__, Yin Zhuang, He Chen, Hao Dong, Liang Chen
 
 
