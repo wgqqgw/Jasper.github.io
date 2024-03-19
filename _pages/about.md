@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I received a B.S. degree in Electronics and Communications Engineering from [Beijing Institute of Technology](https://sie.bit.edu.cn/), Beijing, China, in 2017 and a Ph.D. in [Radar Technology Research Institute](https://radar.bit.edu.cn/index.htm), Information and Communication Engineering from Beijing Institute of Technology, Beijing, China, 2023. I am currently a Postdoctoral Researcher at the School of Computer Science, [Peking University](https://cs.pku.edu.cn/), Beijing, China, and my research covers a wide range of topics in computer vision and deep learning, including remote sensing object detection, recognition, and multimodal large language models. Currently, my main research focus is on exploring universal multimodal large-scale model architectures and algorithms, with a dedication to applying them in areas closely related to people's livelihoods such as remote sensing intelligent interpretation.
+I received a B.S. degree in Electronics and Communications Engineering from [Beijing Institute of Technology](https://sie.bit.edu.cn/), Beijing, China, in 2017 and a Ph.D. in [Radar Technology Research Institute](https://radar.bit.edu.cn/index.htm), Information and Communication Engineering from [Beijing Institute of Technology](https://sie.bit.edu.cn/), Beijing, China, 2023. I am currently a Postdoctoral Researcher at the School of Computer Science, [Peking University](https://cs.pku.edu.cn/), Beijing, China, and my research covers a wide range of topics in computer vision and deep learning, including remote sensing object detection, recognition, and multimodal large language models. Currently, my main research focus is on exploring universal multimodal large-scale model architectures and algorithms, with a dedication to applying them in areas closely related to people's livelihoods such as remote sensing intelligent interpretation.
 
 Publications
 ======
-<span style="color: gray;"><u>[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=tkr88JsAAAAJ&view_op=list_works&sortby=pubdate)</u></span>
+<span style="color: gray; font-weight: bold; font-style: italic; text-decoration: underline;">
+    <a href="https://scholar.google.com/citations?hl=en&user=tkr88JsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar Profile</a>
+</span>
 1. [*DECOR: Dynamic Decoupling and Multiobjective Optimization for Long-Tailed Remote Sensing Image Classification*](https://xplorestaging.ieee.org/document/10443928)  
    Jianlin Xie, __Guanqun Wang*__, Yin Zhuang, Can Li, Tong Zhang, He Chen, Liang Chen, Shanghang Zhang  
    IEEE Transactions on Geoscience and Remote Sensing, 2024
