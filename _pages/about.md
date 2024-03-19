@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received a B.S. degree in [Electronics and Communications Engineering from Beijing Institute of Technology](https://sie.bit.edu.cn/), Beijing, China, in 2017 and a Ph.D. in (Radar Technology Research Institute, Information and Communication Engineering from Beijing Institute of Technology)[https://radar.bit.edu.cn/index.htm], Beijing, China, 2023. I am currently a postdoctoral researcher at the [School of Computer Science, Peking University](https://cs.pku.edu.cn/], Beijing, China, and my research interests include remote sensing object detection, recognition, and multimodal large language models.
+I received a B.S. degree in [Electronics and Communications Engineering from Beijing Institute of Technology](https://sie.bit.edu.cn/), Beijing, China, in 2017 and a Ph.D. in [Radar Technology Research Institute, Information and Communication Engineering from Beijing Institute of Technology](https://radar.bit.edu.cn/index.htm), Beijing, China, 2023. I am currently a postdoctoral researcher at the [School of Computer Science, Peking University](https://cs.pku.edu.cn/), Beijing, China, and my research interests include remote sensing object detection, recognition, and multimodal large language models.
 
 A data-driven personal website
 ======
