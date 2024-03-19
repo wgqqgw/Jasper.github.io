@@ -105,4 +105,4 @@ Patents
 
 Professional Service
 ======
-&bull; Reviewer： IEEE TGRS, IEEE JSTARS
+&bull; Reviewer: IEEE Transactions on Geoscience and Remote Sensing, IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing
