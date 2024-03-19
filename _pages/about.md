@@ -107,3 +107,9 @@ Professional Service
 ======
 &bull; Reviewer for IEEE Transactions on Geoscience and Remote Sensing  
 &bull; Reviewer for IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing
+
+Awards and Honors
+======
+&bull; “眼神杯”遥感影像稀疏表征与智能处理算法大赛  一等奖  
+国家自然科学基金委员会信息科学部， 2018
+
