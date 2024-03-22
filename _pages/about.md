@@ -19,7 +19,7 @@ Publications
    Jianlin Xie, __Guanqun Wang*__, Yin Zhuang, Can Li, Tong Zhang, He Chen, Liang Chen, Shanghang Zhang  
    IEEE Transactions on Geoscience and Remote Sensing, 2024
    
-2. *Adaptive Dynamic Label Assignment for Tiny Object Detection in Aerial Images*  
+2. [*Adaptive Dynamic Label Assignment for Tiny Object Detection in Aerial Images*](https://ieeexplore.ieee.org/document/10476641/)  
    Lihui Ge, __Guanqun Wang*__, Yin Zhuang, He Chen, Hao Dong, Liang Chen  
    IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing, 2024
    
