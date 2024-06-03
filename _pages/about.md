@@ -116,6 +116,7 @@ Professional Service
 ======
 &bull; Reviewer for IEEE Transactions on Geoscience and Remote Sensing  
 &bull; Reviewer for IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing
+&bull; Guest Editor of Remote Sensing
 
 Awards and Honors
 ======
