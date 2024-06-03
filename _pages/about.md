@@ -14,21 +14,23 @@ Publications
 <span style="color: gray; font-weight: bold; font-style: italic; text-decoration: underline;">
     <a href="https://scholar.google.com/citations?hl=en&user=tkr88JsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar Profile</a>
 </span>  
+<sup>†</sup> Corresponding author  
+<sup>*</sup> Co-first author 
 
 1. [*Regression-Guided Refocusing Learning with Feature Alignment for Remote Sensing Tiny Object Detection*](https://ieeexplore.ieee.org/abstract/document/10542513)  
    Lihui Ge, __Guanqun Wang<sup>†</sup>__, Tong Zhang, Yin Zhuang, He Chen, Hao Dong, Liang Chen  
    IEEE Transactions on Geoscience and Remote Sensing, 2024
 
 2. [*Self-Corrected Multimodal Large Language Model for End-to-End Robot Manipulation*](https://arxiv.org/pdf/2405.17418)  
-   __Jiaming Liu*__, __Chenxuan Li*__, __Guanqun Wang*__, Lily Lee, Kaichen Zhou, Sixiang Chen, Chuyan Xiong, Jiaxin Ge, Renrui Zhang, __Shanghang Zhang__  
+   Jiaming Liu*, Chenxuan Li*,  __Guanqun Wang*__, Lily Lee, Kaichen Zhou, Sixiang Chen, Chuyan Xiong, Jiaxin Ge, Renrui Zhang, Shanghang Zhang<sup>†</sup> 
    Arxiv
 
 3. [*DECOR: Dynamic Decoupling and Multiobjective Optimization for Long-Tailed Remote Sensing Image Classification*](https://xplorestaging.ieee.org/document/10443928)  
-   Jianlin Xie, __Guanqun Wang*__, Yin Zhuang, Can Li, Tong Zhang, He Chen, Liang Chen, Shanghang Zhang  
+   Jianlin Xie, __Guanqun Wang<sup>†</sup>__, Yin Zhuang, Can Li, Tong Zhang, He Chen, Liang Chen, Shanghang Zhang  
    IEEE Transactions on Geoscience and Remote Sensing, 2024
    
 4. [*Adaptive Dynamic Label Assignment for Tiny Object Detection in Aerial Images*](https://ieeexplore.ieee.org/document/10476641/)  
-   Lihui Ge, __Guanqun Wang*__, Yin Zhuang, He Chen, Hao Dong, Liang Chen  
+   Lihui Ge, __Guanqun Wang<sup>†</sup>__, Yin Zhuang, He Chen, Hao Dong, Liang Chen  
    IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing, 2024
    
 5. [*Cloud-Device Collaborative Learning for Multimodal Large Language Models*](https://arxiv.org/abs/2312.16279)  
