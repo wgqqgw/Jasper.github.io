@@ -16,7 +16,7 @@ Publications
 </span>  
 
 1. [*Regression-Guided Refocusing Learning with Feature Alignment for Remote Sensing Tiny Object Detection*](https://ieeexplore.ieee.org/abstract/document/10542513)  
-   Lihui Ge, __Guanqun Wang*__, Tong Zhang, Yin Zhuang, He Chen, Hao Dong, Liang Chen  
+   Lihui Ge, __Guanqun Wang<sup>†</sup>__, Tong Zhang, Yin Zhuang, He Chen, Hao Dong, Liang Chen  
    IEEE Transactions on Geoscience and Remote Sensing, 2024
 
 2. [*Self-Corrected Multimodal Large Language Model for End-to-End Robot Manipulation*](https://arxiv.org/pdf/2405.17418)  
