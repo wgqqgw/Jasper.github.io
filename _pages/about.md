@@ -14,84 +14,91 @@ Publications
 <span style="color: gray; font-weight: bold; font-style: italic; text-decoration: underline;">
     <a href="https://scholar.google.com/citations?hl=en&user=tkr88JsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar Profile</a>
 </span>  
+1. [*Regression-Guided Refocusing Learning with Feature Alignment for Remote Sensing Tiny Object Detection*](https://ieeexplore.ieee.org/abstract/document/10542513)  
+   Lihui Ge, __Guanqun Wang*__, Tong Zhang, Yin Zhuang, He Chen, Hao Dong, Liang Chen  
+   IEEE Transactions on Geoscience and Remote Sensing, 2024
 
-1. [*DECOR: Dynamic Decoupling and Multiobjective Optimization for Long-Tailed Remote Sensing Image Classification*](https://xplorestaging.ieee.org/document/10443928)  
+2. [*Self-Corrected Multimodal Large Language Model for End-to-End Robot Manipulation*](https://arxiv.org/pdf/2405.17418)  
+   Jiaming Liu, Chenxuan Li, __Guanqun Wang*__, Lily Lee, Kaichen Zhou, Sixiang Chen, Chuyan Xiong, Jiaxin Ge, Renrui Zhang, Shanghang Zhang  
+   Arxiv
+
+3. [*DECOR: Dynamic Decoupling and Multiobjective Optimization for Long-Tailed Remote Sensing Image Classification*](https://xplorestaging.ieee.org/document/10443928)  
    Jianlin Xie, __Guanqun Wang*__, Yin Zhuang, Can Li, Tong Zhang, He Chen, Liang Chen, Shanghang Zhang  
    IEEE Transactions on Geoscience and Remote Sensing, 2024
    
-2. [*Adaptive Dynamic Label Assignment for Tiny Object Detection in Aerial Images*](https://ieeexplore.ieee.org/document/10476641/)  
+4. [*Adaptive Dynamic Label Assignment for Tiny Object Detection in Aerial Images*](https://ieeexplore.ieee.org/document/10476641/)  
    Lihui Ge, __Guanqun Wang*__, Yin Zhuang, He Chen, Hao Dong, Liang Chen  
    IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing, 2024
    
-3. [*Cloud-Device Collaborative Learning for Multimodal Large Language Models*](https://arxiv.org/abs/2312.16279)  
+5. [*Cloud-Device Collaborative Learning for Multimodal Large Language Models*](https://arxiv.org/abs/2312.16279)  
    **Guanqun Wang**, Jiaming Liu, Chenxuan Li, Yuan Zhang, Junpeng Ma, Xinyu Wei, Kevin Zhang, Maurice Chong, Renrui Zhang, Yijiang Liu, Shanghang Zhang*  
    Computer Vision and Pattern Recognition (CVPR), 2024
    
-4. [*Posterior Instance Injection Detector for Arbitrary-Oriented Object Detection from Optical Remote Sensing Imagery*](https://ieeexplore.ieee.org/document/10292881)  
+6. [*Posterior Instance Injection Detector for Arbitrary-Oriented Object Detection from Optical Remote Sensing Imagery*](https://ieeexplore.ieee.org/document/10292881)  
    Tong Zhang, Yin Zhuang, He Chen, **Guanqun Wang**, Lihui Ge, Liang Chen, Hao Dong, Lianlin Li  
    IEEE Transactions on Geoscience and Remote Sensing, 2023
    
-5. [*Multi-Grained Global-Local Semantic Feature Fusion for Few Shot Remote Sensing Scene Classification*](https://ieeexplore.ieee.org/document/10282655)  
+7. [*Multi-Grained Global-Local Semantic Feature Fusion for Few Shot Remote Sensing Scene Classification*](https://ieeexplore.ieee.org/document/10282655)  
    Yuqing Liu, Tong Zhang, Yin Zhuang, **Guanqun Wang**, He Chen  
    IEEE International Geoscience and Remote Sensing Symposium, 2023
    
-6. [*Object-Centric Masked Image Modeling Based Self-Supervised Pretraining for Remote Sensing Object Detection*](https://ieeexplore.ieee.org/document/10129022)  
+8. [*Object-Centric Masked Image Modeling Based Self-Supervised Pretraining for Remote Sensing Object Detection*](https://ieeexplore.ieee.org/document/10129022)  
    Tong Zhang, Yin Zhuang, He Chen, Liang Chen, **Guanqun Wang**, Peng Gao, Hao Dong  
    IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing, 2023
    
-7. [*P2FEViT: Plug-and-Play CNN Feature Embedded Hybrid Vision Transformer for Remote Sensing Image Classification*](https://www.mdpi.com/2072-4292/15/7/1773)  
+9. [*P2FEViT: Plug-and-Play CNN Feature Embedded Hybrid Vision Transformer for Remote Sensing Image Classification*](https://www.mdpi.com/2072-4292/15/7/1773)  
    **Guanqun Wang**, He Chen, Liang Chen, Yin Zhuang, Shanghang Zhang, Tong Zhang, Hao Dong, Peng Gao  
    Remote Sensing, 2023
    
-8. [*Consecutive pre-training: A knowledge transfer learning strategy with relevant unlabeled data for remote sensing domain*](https://www.mdpi.com/2072-4292/14/22/5675)  
+10. [*Consecutive pre-training: A knowledge transfer learning strategy with relevant unlabeled data for remote sensing domain*](https://www.mdpi.com/2072-4292/14/22/5675)  
    Tong Zhang, Peng Gao, Hao Dong, Yin Zhuang, **Guanqun Wang**, Wei Zhang, He Chen  
    Remote Sensing, 2023
    
-9. [*Adaptive Local Context Embedding for Small Vehicle Detection from Aerial Optical Remote Sensing Images*](https://ieeexplore.ieee.org/document/9883080)  
+11. [*Adaptive Local Context Embedding for Small Vehicle Detection from Aerial Optical Remote Sensing Images*](https://ieeexplore.ieee.org/document/9883080)  
    Shanjunyu Liu, Yin Zhuang, Hao Dong, Peng Gao, **Guanqun Wang**, Tong Zhang, Liang Chen, He Chen, Lianlin Li  
    IEEE International Geoscience and Remote Sensing Symposium, 2022
    
-10. [*Multiscale semantic fusion-guided fractal convolutional object detection network for optical remote sensing imagery*](https://ieeexplore.ieee.org/document/9535169)  
+12. [*Multiscale semantic fusion-guided fractal convolutional object detection network for optical remote sensing imagery*](https://ieeexplore.ieee.org/document/9535169)  
     Tong Zhang, Yin Zhuang, **Guanqun Wang**, Shan Dong, He Chen, Lianlin Li  
     IEEE Transactions on Geoscience and Remote Sensing, 2021
     
-11. [*FSoD-Net: Full-Scale Object Detection From Optical Remote Sensing Imagery*](https://xplorestaging.ieee.org/document/9382268/authors#authors)  
+13. [*FSoD-Net: Full-Scale Object Detection From Optical Remote Sensing Imagery*](https://xplorestaging.ieee.org/document/9382268/authors#authors)  
    **Guanqun Wang**, Yin Zhuang*, He Chen, Xiang Liu, Tong Zhang, Shan Dong, Qianbo Sang  
    IEEE Transactions on Geoscience and Remote Sensing, 2021 (**Highly Cited in ESI**)
 
-12. [*Improved land cover classification of VHR optical remote sensing imagery based upon detail injection procedure*](https://ieeexplore.ieee.org/document/9234690)  
+14. [*Improved land cover classification of VHR optical remote sensing imagery based upon detail injection procedure*](https://ieeexplore.ieee.org/document/9234690)  
     Qianbo Sang, Yin Zhuang, Shan Dong, **Guanqun Wang**, He Chen, Lianlin Li  
     IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing, 2020
     
-13. [*Feature enhanced centernet for object detection in remote sensing images*](https://ieeexplore.ieee.org/document/9323116)  
+15. [*Feature enhanced centernet for object detection in remote sensing images*](https://ieeexplore.ieee.org/document/9323116)  
     Tong Zhang, **Guanqun Wang**, Yin Zhuang, He Chen, Hao Shi, Liang Chen  
     IEEE International Geoscience and Remote Sensing Symposium, 2020
     
-14. [*A SAR target recognition method with frequency and spatial domain enhancement*](https://ieeexplore.ieee.org/document/9173318)  
+16. [*A SAR target recognition method with frequency and spatial domain enhancement*](https://ieeexplore.ieee.org/document/9173318)  
     Zhiru Wang, Liang Chen, Baogui Qi, **Guanqun Wang**, Hao Shi  
     IEEE International Conference on Signal, Information and Data Processing, 2019
     
-15. [*SAR image classification method based on Gabor feature and K‐NN*](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/joe.2019.0382)  
+17. [*SAR image classification method based on Gabor feature and K‐NN*](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/joe.2019.0382)  
     Zhiru Wang, Liang Chen, Hao Shi, Baogui Qi, **Guanqun Wang**  
     The Journal of Engineering, 2019
     
-16. [*FRF-Net: Land cover classification from large-scale VHR optical remote sensing images*](https://ieeexplore.ieee.org/document/8848484)  
+18. [*FRF-Net: Land cover classification from large-scale VHR optical remote sensing images*](https://ieeexplore.ieee.org/document/8848484)  
     Qianbo Sang, Yin Zhuang, Shan Dong, **Guanqun Wang**, He Chen  
     IEEE Geoscience and Remote Sensing Letters, 2019
     
-17. [*Spatial enhanced-ssd for multiclass object detection in remote sensing images*](https://ieeexplore.ieee.org/document/8898526)  
+19. [*Spatial enhanced-ssd for multiclass object detection in remote sensing images*](https://ieeexplore.ieee.org/document/8898526)  
     **Guanqun Wang**, Yin Zhuang, Zhiru Wang, He Chen, Hao Shi, Liang Chen  
     IEEE International Geoscience and Remote Sensing Symposium, 2019 (Oral)
     
-18. [*A novel harbor detection method based on pattern coding algorithm*](https://ieeexplore.ieee.org/document/8518972)  
+20. [*A novel harbor detection method based on pattern coding algorithm*](https://ieeexplore.ieee.org/document/8518972)  
     **Guanqun Wang**, Yin Zhuang, He Chen, Liang Chen  
     IEEE International Geoscience and Remote Sensing Symposium, 2018
     
-19. [*Hierarchical sea-land segmentation for panchromatic remote sensing imagery*](https://www.hindawi.com/journals/mpe/2017/4728425/)  
+21. [*Hierarchical sea-land segmentation for panchromatic remote sensing imagery*](https://www.hindawi.com/journals/mpe/2017/4728425/)  
     Long Ma, Nouman Q.Soomro, JinJing Shen, Liang Chen, Zhihong Mai, **Guanqun Wang**  
     Mathematical Problem in Engineering, 2017
     
-20. [*A review of ship detection and recognition based on optical remote sensing image*](http://www.kjdb.org/CN/article/downloadArticleFile.do?attachType=PDF&id=14593)  
+22. [*A review of ship detection and recognition based on optical remote sensing image*](http://www.kjdb.org/CN/article/downloadArticleFile.do?attachType=PDF&id=14593)  
     Liang Chen, Zhiru Wang, Zhong Han, **Guanqun Wang**, Haotian Zhou, Hao Shi, Cheng Hu, Teng Long  
     Science & Technology Review, 2017  
 
