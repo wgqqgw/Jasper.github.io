@@ -14,14 +14,15 @@ Publications
 <span style="color: gray; font-weight: bold; font-style: italic; text-decoration: underline;">
     <a href="https://scholar.google.com/citations?hl=en&user=tkr88JsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar Profile</a>
 </span>  
-&nbsp;&nbsp;<sup><b>†</b></sup> <i>Corresponding Author</i> &nbsp;&nbsp;&nbsp;&nbsp;<sup><b>*</b></sup> <i>Equal Contribution</i>
+
+<sup><b>†</b></sup> <i>Corresponding Author</i> &nbsp;&nbsp;&nbsp;&nbsp;<sup><b>*</b></sup> <i>Equal Contribution</i>
 
 1. [*Regression-Guided Refocusing Learning with Feature Alignment for Remote Sensing Tiny Object Detection*](https://ieeexplore.ieee.org/abstract/document/10542513)  
    Lihui Ge, __Guanqun Wang<sup>†</sup>__, Tong Zhang, Yin Zhuang, He Chen, Hao Dong, Liang Chen  
    IEEE Transactions on Geoscience and Remote Sensing, 2024
 
 2. [*Self-Corrected Multimodal Large Language Model for End-to-End Robot Manipulation*](https://arxiv.org/pdf/2405.17418)  
-   Jiaming Liu*, Chenxuan Li*,  __Guanqun Wang*__, Lily Lee, Kaichen Zhou, Sixiang Chen, Chuyan Xiong, Jiaxin Ge, Renrui Zhang, Shanghang Zhang<sup>†</sup> 
+   Jiaming Liu*, Chenxuan Li*,  __Guanqun Wang*__, Lily Lee, Kaichen Zhou, Sixiang Chen, Chuyan Xiong, Jiaxin Ge, Renrui Zhang, Shanghang Zhang<sup>†</sup>  
    Arxiv
 
 3. [*DECOR: Dynamic Decoupling and Multiobjective Optimization for Long-Tailed Remote Sensing Image Classification*](https://xplorestaging.ieee.org/document/10443928)  
