@@ -14,8 +14,7 @@ Publications
 <span style="color: gray; font-weight: bold; font-style: italic; text-decoration: underline;">
     <a href="https://scholar.google.com/citations?hl=en&user=tkr88JsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar Profile</a>
 </span>  
-<sup>†</sup> Corresponding author  
-<sup>*</sup> Co-first author 
+__<sup>†</sup>__ Corresponding author &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__<sup>*</sup>__ Equal Contribution
 
 1. [*Regression-Guided Refocusing Learning with Feature Alignment for Remote Sensing Tiny Object Detection*](https://ieeexplore.ieee.org/abstract/document/10542513)  
    Lihui Ge, __Guanqun Wang<sup>†</sup>__, Tong Zhang, Yin Zhuang, He Chen, Hao Dong, Liang Chen  
