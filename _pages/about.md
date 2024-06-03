@@ -20,7 +20,7 @@ Publications
    IEEE Transactions on Geoscience and Remote Sensing, 2024
 
 2. [*Self-Corrected Multimodal Large Language Model for End-to-End Robot Manipulation*](https://arxiv.org/pdf/2405.17418)  
-   Jiaming Liu, Chenxuan Li, __Guanqun Wang*__, Lily Lee, Kaichen Zhou, Sixiang Chen, Chuyan Xiong, Jiaxin Ge, Renrui Zhang, Shanghang Zhang  
+   __Jiaming Liu*__, __Chenxuan Li*__, __Guanqun Wang*__, Lily Lee, Kaichen Zhou, Sixiang Chen, Chuyan Xiong, Jiaxin Ge, Renrui Zhang, __Shanghang Zhang__  
    Arxiv
 
 3. [*DECOR: Dynamic Decoupling and Multiobjective Optimization for Long-Tailed Remote Sensing Image Classification*](https://xplorestaging.ieee.org/document/10443928)  
