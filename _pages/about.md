@@ -14,7 +14,7 @@ Publications
 <span style="color: gray; font-weight: bold; font-style: italic; text-decoration: underline;">
     <a href="https://scholar.google.com/citations?hl=en&user=tkr88JsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar Profile</a>
 </span>  
-<sup><b>†</b></sup> Corresponding author &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><b>*</b></sup> Equal Contribution
+&nbsp;&nbsp;<sup><b>†</b></sup> Corresponding author &nbsp;&nbsp;&nbsp;&nbsp;<sup><b>*</b></sup> Equal Contribution
 
 1. [*Regression-Guided Refocusing Learning with Feature Alignment for Remote Sensing Tiny Object Detection*](https://ieeexplore.ieee.org/abstract/document/10542513)  
    Lihui Ge, __Guanqun Wang<sup>†</sup>__, Tong Zhang, Yin Zhuang, He Chen, Hao Dong, Liang Chen  
@@ -115,7 +115,7 @@ Patents
 Professional Service
 ======
 &bull; Reviewer for IEEE Transactions on Geoscience and Remote Sensing  
-&bull; Reviewer for IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing
+&bull; Reviewer for IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing 
 &bull; Guest Editor of Remote Sensing
 
 Awards and Honors
